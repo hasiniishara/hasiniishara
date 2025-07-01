@@ -1,67 +1,41 @@
-# Hello, Hei! 👋 I'm Hasini Ishara
+# Hi there, I'm Hasini Ishara 👋
 
-👩‍💻 ISTQB-certified QA Engineer with 4+ years of experience in manual and automated testing across web, embedded, and regulated systems.  
-🚀 Skilled in Robot Framework, Pytest, Selenium, Python, and JavaScript. Passionate about driving impactful testing solutions and deepening automation expertise.
+I’m a passionate QA Engineer with 4+ years of experience in manual and automated testing across web, embedded, and regulated systems.  
+I specialize in Robot Framework, Pytest, Selenium, and have strong skills in Python and JavaScript.  
 
-🔭 Currently improving test coverage and quality at Brahma Advice Technology.  
-🤝 I enjoy collaborating with Agile teams and global stakeholders.  
-💬 Fluent in English and learning Finnish (Elementary).  
-⚡ Fun fact: I love building full stack projects and exploring new technologies!
-
----
-
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasini-ishara-94329516b/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hasiniishara.github.io/PersonalPortfolio/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasiniishara)
+🔭 Currently working as a Test Engineer at Brahma Advice Technology, Perth, Australia.  
+🌱 Always eager to deepen my automation expertise and contribute to high-quality software.  
+🤝 I enjoy collaborating with global teams and driving impactful testing solutions.  
+💬 Languages: English (Fluent), Finnish (Elementary)  
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frameworks & Libraries:**  
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-FF0000?style=for-the-badge&logo=robotframework&logoColor=white)  
-![Pytest](https://img.shields.io/badge/Pytest-000000?style=for-the-badge&logo=pytest&logoColor=white)  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Puppeteer](https://img.shields.io/badge/Puppeteer-CC3534?style=for-the-badge&logo=puppeteer&logoColor=white)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Tools & Platforms:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+### 📫 Connect with me:  
+- [LinkedIn](https://www.linkedin.com/in/hasini-ishara-94329516b/)  
+- [Portfolio](https://hasiniishara.github.io/PersonalPortfolio/)  
+- [GitHub](https://github.com/hasiniishara)  
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ My Favorite Tools & Technologies  
 
-![Hasini's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasiniishara&show_icons=true&theme=radical)
-![TypeScript](https://img.shields.io/badge/TypeScript-59.21%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-22.75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/HTML-8.98%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-8.83%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-0.23%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Programming Languages:** Java, Python, JavaScript, TypeScript  
+**Frameworks & Libraries:** Robot Framework, Pytest, Selenium, Puppeteer, React.js  
+**Databases:** MySQL, MongoDB, Firebase  
+**Tools:** Jenkins, Docker, Postman, JMeter, Swagger, Git, Jira, Confluence  
 
 ---
 
-### ⚡ Fun Projects
+### 📈 GitHub Stats
 
-- [Online Parking System](https://github.com/hasiniishara/OnlineParkingSystem) - A React & TypeScript based platform for easy parking management.  
-- [Personal Portfolio](https://hasiniishara.github.io/PersonalPortfolio/) - My portfolio showcasing projects and skills.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasiniishara&layout=compact&langs_count=5&theme=radical)](https://github.com/hasiniishara/github-readme-stats)
 
 ---
 
-Thanks for stopping by! 🙌  
-Feel free to connect or check out my work. 😊
+### ⚡ Fun Facts  
+- I love exploring new technologies and improving automation workflows.  
+- Outside work, I enjoy reading, traveling, and practicing mindfulness.  
+
+---
+
+Thanks for visiting my profile! Feel free to connect or reach out. 😊
