@@ -25,16 +25,15 @@ My experience spans financial, insurance, embedded systems, and web applications
 
 ### 🚀 Projects
 
-- **[Online Parking System](https://github.com/yourusername/online-parking-system)** – A React and TypeScript web app for real-time parking management, built with MongoDB and Redux.  
-- *(Add more projects here as you wish)*
+- **[Online Parking System](https://github.com/hasiniishara/OnlineParkingSystem)** – A React and TypeScript web app for real-time parking management, built with MongoDB and Redux.
 
 ---
 
 ### 📫 Let's Connect!
 
 - Email: [hasinidevmini28@gmail.com](mailto:hasinidevmini28@gmail.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/hasini-ishara-94329516b/)  
+- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com](https://hasiniishara.github.io/PersonalPortfolio/)
 
 ---
 
