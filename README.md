@@ -1,6 +1,6 @@
 # Hi there, I'm Hasini Ishara 👋
 
-I’m a passionate QA Engineer with 4+ years of experience in manual and automated testing across web, embedded, and regulated systems.  
+I’m a passionate Test Engineer with 4+ years of experience in manual and automated testing across web, embedded, and regulated systems.  
 I specialize in Robot Framework, Pytest, Selenium, and have strong skills in Python and JavaScript.  
 
 🔭 Currently working as a Test Engineer at Brahma Advice Technology, Perth, Australia.  
