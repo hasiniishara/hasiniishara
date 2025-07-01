@@ -32,8 +32,8 @@ My experience spans financial, insurance, embedded systems, and web applications
 ### 📫 Let's Connect!
 
 - Email: [hasinidevmini28@gmail.com](mailto:hasinidevmini28@gmail.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/hasini-ishara-94329516b/)  
-- Portfolio: [your-portfolio-link.com]([https://your-portfolio-link.com](https://hasiniishara.github.io/PersonalPortfolio/))
+- LinkedIn: [https://www.linkedin.com/in/hasini-ishara-94329516b/](https://linkedin.com/in/yourprofile)  
+- Portfolio: [https://hasiniishara.github.io/PersonalPortfolio/](https://your-portfolio-link.com)
 
 ---
 
