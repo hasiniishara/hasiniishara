@@ -1,4 +1,4 @@
-# Bonjour, Hello, Hei! 👋 I'm Hasini Ishara
+# Hello, Hei! 👋 I'm Hasini Ishara
 
 👩‍💻 ISTQB-certified QA Engineer with 4+ years of experience in manual and automated testing across web, embedded, and regulated systems.  
 🚀 Skilled in Robot Framework, Pytest, Selenium, Python, and JavaScript. Passionate about driving impactful testing solutions and deepening automation expertise.
@@ -48,12 +48,17 @@
 ### 📊 GitHub Stats
 
 ![Hasini's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasiniishara&show_icons=true&theme=radical)
+![TypeScript](https://img.shields.io/badge/TypeScript-59.21%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-22.75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/HTML-8.98%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-8.83%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-0.23%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ### ⚡ Fun Projects
 
-- [Online Parking System](https://github.com/hasiniishara/online-parking-system) - A React & TypeScript based platform for easy parking management.  
+- [Online Parking System](https://github.com/hasiniishara/OnlineParkingSystem) - A React & TypeScript based platform for easy parking management.  
 - [Personal Portfolio](https://hasiniishara.github.io/PersonalPortfolio/) - My portfolio showcasing projects and skills.
 
 ---
