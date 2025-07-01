@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Hasini Ishara 👋
 
-<!--
-**hasiniishara/hasiniishara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an ISTQB-certified QA Engineer with 4+ years of experience in manual and automated testing across web, embedded, and regulated systems.  
+I specialize in Robot Framework, Pytest, Selenium, and have strong skills in Python and JavaScript.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+- **Languages:** Java, Python, JavaScript  
+- **Testing Frameworks:** Robot Framework, Pytest, MSTest, TestNG, Selenium, SpecFlow, Puppeteer  
+- **Web Development:** React.js, Redux, TypeScript  
+- **Databases:** MySQL, MongoDB, Firebase  
+- **Tools:** Jenkins, Docker, Postman, JMeter, Swagger, Git, Jira, Confluence  
+- **Operating Systems:** Linux, Windows  
+
+---
+
+### 📂 About My Work
+
+I have contributed to building robust automated test frameworks, integrating tests into CI/CD pipelines, and ensuring high-quality software delivery in Agile environments.  
+My experience spans financial, insurance, embedded systems, and web applications.
+
+---
+
+### 🚀 Projects
+
+- **[Online Parking System](https://github.com/yourusername/online-parking-system)** – A React and TypeScript web app for real-time parking management, built with MongoDB and Redux.  
+- *(Add more projects here as you wish)*
+
+---
+
+### 📫 Let's Connect!
+
+- Email: [hasinidevmini28@gmail.com](mailto:hasinidevmini28@gmail.com)  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories or reach out to collaborate.
