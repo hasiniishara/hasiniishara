@@ -28,7 +28,7 @@ I specialize in Robot Framework, Pytest, Selenium, and have strong skills in Pyt
 
 ### 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasiniishara&layout=compact&langs_count=5&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasiniishara&layout=compact&langs_count=5&theme=github-compact)](https://github.com/hasiniishara/github-readme-stats)
 
 ---
 
