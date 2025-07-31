@@ -12,7 +12,7 @@ I specialize in Robot Framework, Pytest, Selenium, and have strong skills in Pyt
 
 ### 📫 Connect with me:  
 - [LinkedIn](https://www.linkedin.com/in/hasini-ishara-94329516b/)  
-- [Portfolio](https://hasiniishara.github.io/PersonalPortfolio/)  
+- [Portfolio](https://hasiniishara.github.io/my-portfolio/)  
 - [GitHub](https://github.com/hasiniishara)  
 
 ---
