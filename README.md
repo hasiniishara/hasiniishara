@@ -1,42 +1,55 @@
-# Hi there, I'm Hasini Ishara 👋
+# 👋 Hi there, I'm Hasini Ishara
 
-I’m a passionate Test Engineer with 5 years of experience in manual and automated testing across web, embedded, and regulated systems.  
-I specialize in Robot Framework, Pytest, Selenium, and have strong skills in Python and JavaScript.  
+I’m a passionate **Test Engineer** with 5+ years of experience in **manual and automated testing** across web, embedded, and regulated systems.  
+I specialize in **Robot Framework**, **Pytest**, **Selenium**, and have strong skills in **Python** and **JavaScript**.
 
-🔭 Currently working as a Test Engineer at Brahma Advice Technology, Perth, Australia.  
-🌱 Always eager to deepen my automation expertise and contribute to high-quality software.  
-🤝 I enjoy collaborating with global teams and driving impactful testing solutions.  
-💬 Languages: English (Fluent), Finnish (Elementary)  
-
----
-
-### 📫 Connect with me:  
-- [LinkedIn](https://www.linkedin.com/in/hasini-ishara-94329516b/)  
-- [Portfolio](https://hasiniishara.github.io/my-portfolio/)  
-- [GitHub](https://github.com/hasiniishara)  
+- 🔭 Currently working at **Brahma Advice Technology**, Perth, Australia  
+- 🌱 Always learning to deepen my automation expertise & deliver high-quality software  
+- 🤝 Collaborating with global teams to drive impactful testing strategies  
+- 💬 Languages: **English (Fluent)** · **Finnish (Elementary)**
 
 ---
 
-### 🛠️ My Favorite Tools & Technologies  
+## 📫 Let's Connect
 
-**Programming Languages:** Java, Python, JavaScript, TypeScript  
-**Frameworks & Libraries:** Robot Framework, Pytest, Selenium, Puppeteer, React.js  
-**Databases:** MySQL, MongoDB, Firebase  
-**Tools:** Jenkins, Docker, Postman, JMeter, Swagger, Git, Jira, Confluence  
-
----
-
-### 📈 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasiniishara&layout=compact&theme=radical)](https://github.com/hasiniishara/github-readme-stats)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/hasini-ishara-94329516b/)  
+- 🌐 [Portfolio](https://hasiniishara.github.io/my-portfolio/)  
+- 💻 [GitHub](https://github.com/hasiniishara)
 
 ---
 
-### ⚡ Fun Facts  
-- I love exploring new technologies and improving automation workflows.  
-- Outside work, I enjoy reading, traveling, and practicing mindfulness.  
+## 🛠️ My Favorite Tools & Technologies
+
+**Languages**  
+`Python` · `JavaScript` · `Java` · `TypeScript`  
+
+**Testing Frameworks**  
+`Robot Framework` · `Pytest` · `Selenium` · `Puppeteer`  
+
+**Web & UI**  
+`React.js` · `HTML` · `CSS` · `Tailwind`  
+
+**CI/CD & Tools**  
+`Jenkins` · `Docker` · `GitHub Actions` · `Postman` · `JMeter` · `Swagger`  
+
+**Databases & Cloud**  
+`MongoDB` · `MySQL` · `Firebase` · `AWS`
 
 ---
 
-Thanks for visiting my profile! Feel free to connect or reach out. 😊
+## 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasiniishara&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasiniishara&theme=radical)
+
+---
+
+## ⚡ Fun Facts
+
+- 💡 I love building smart automation workflows that boost quality & save time  
+- 🧘 I enjoy mindfulness, languages, music, and discovering new cultures  
+- 🛠️ Nothing excites me more than clean, reliable, scalable test code
+
+---
+
+Thanks for stopping by — let’s build something amazing together! 😊
